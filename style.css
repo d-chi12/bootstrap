@@ -10,12 +10,20 @@
 
 /* grid system */
 
-.box1 {
+/* .box1 {
   background-color: blue;
 }
 
 .box2 {
 background-color: blueviolet;
-} 
+}  */
 
 /* end of grid system */
+
+/* Flexbox */
+.box {
+  width: 100px;
+  height: 100px;
+  color: white;
+  padding: 5px;
+}
