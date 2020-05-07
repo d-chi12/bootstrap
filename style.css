@@ -1,4 +1,21 @@
-.container {
+/* bootstrap farst commit */
+
+/* .container {
+  background-color: blue;
+} */
+
+/* end of bootstrap farst commit */
+
+
+
+/* grid system */
+
+.box1 {
   background-color: blue;
 }
 
+.box2 {
+background-color: blueviolet;
+} 
+
+/* end of grid system */
